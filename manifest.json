@@ -1,0 +1,8 @@
+{
+  "name":"Hackable browser extension",
+  "description":"A browser extension designed to be easy to hack, for security testing",
+  "premissions":["tabs","storage"],
+  "web_accessible_resources":["von.txt"],
+  "manifest_version":2,
+  "version":"0.1",
+}
